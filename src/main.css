@@ -1,0 +1,22 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  width: 100%;
+  height: auto;
+  position: relative;
+  left: 0;
+  top: 0;
+  overflow:hidden;
+  overflow-y:auto;
+}
+.italic{
+  font-style: italic;
+}
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
